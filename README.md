@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python as my first language
 - 💞️ I’m looking to collaborate on front-end development and app development.
 - 📫 How to reach me by email via dexterlab059@gmail.com
-- 😄 Pronouns: Him/His 
+- 😄 Pronouns: He/Him/His 
 - ⚡ Fun fact: I am dying with seriousness...
 
 <!---
