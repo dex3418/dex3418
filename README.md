@@ -1,12 +1,23 @@
-- 👋 Hi, I’m Devashish
-- 👀 I’m interested in how technology and how it works
-- 🌱 I’m currently learning Python as my first language
-- 💞️ I’m looking to collaborate on front-end development and app development.
-- 📫 How to reach me by email via dexterlab059@gmail.com
-- 😄 Pronouns: He/Him/His 
-- ⚡ Fun fact: I am dying with seriousness...
+Hi 👋, I’m Devashish Markam  
 
-<!---
-dex3418/dex3418 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a Training & Placement Coordinator at NavGurukul and a passionate learner in Web Development and Machine Learning. I work closely with students to help them identify their strengths, build career-ready skills, and transition into the tech industry with confidence.
+
+My background includes a diploma in Electrical Engineering and formal training in Computer Programming, along with hands-on experience in front-end development, backend fundamentals, and problem-solving. I believe in learning by building, mentoring by example, and growing through consistent effort.
+
+Currently, I’m focused on:
+- 🌐 Web Development (HTML, CSS, JavaScript)
+- 🤖 Machine Learning & AI fundamentals
+- 📊 Problem Solving & DSA
+- 🎓 Mentorship, communication, and career guidance
+
+### 🛠️ Skills & Tools
+- Languages: HTML, CSS, JavaScript, Python
+- Frontend: Responsive Design, UI Basics
+- Backend: Fundamentals, Version Control (Git/GitHub)
+- ML: Basics, Model Concepts, AWS ML
+- Soft Skills: Mentorship, Communication, Career Guidance
+
+Certified in AWS Machine Learning, Meta Front-End & Back-End Development, and Version Control, I’m always exploring better tools, cleaner code, and practical solutions.
+
+📍 India  
+📫 Open to collaboration, learning, and meaningful tech discussions
